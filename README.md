@@ -1,2 +1,2 @@
-# Core code for paper “Dynamic Heterogeneous User Generated Contents-driven Relation Assessment via Graph Representation Learning”
+# Dataset for paper “Dynamic Heterogeneous User Generated Contents-driven Relation Assessment via Graph Representation Learning”
 
